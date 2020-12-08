@@ -22,6 +22,4 @@ Here are some ideas to get you started:
 - Anime & Manga
 - Doing some Vector Art & Probably Music in the future
 
-[Twitch](https://www.twitch.tv/kaitorque)
-<iframe src="http://player.twitch.tv/?channel=Kaitorque" allowfullscreen height="X" width="Y" *class="col-md-12">
-</iframe>
+I sometime stream on [Twitch](https://www.twitch.tv/kaitorque). Check me out.
