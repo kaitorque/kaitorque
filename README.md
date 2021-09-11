@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 - Doing some Vector Art & Probably Music in the future
 
 I sometime stream on [Twitch](https://www.twitch.tv/kaitorque). Check me out.
+
+[![Kaitorque's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaitorque)](https://github.com/anuraghazra/github-readme-stats)
