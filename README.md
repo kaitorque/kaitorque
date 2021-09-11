@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 I sometime stream on [Twitch](https://www.twitch.tv/kaitorque). Check me out.
 
 ![Kaitorque's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaitorque&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Kaitorque=anuraghazra&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaitorque&layout=compact)]
